@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h3 {
+  font-family: 'Comfortaa', cursive;
+  font-size: 40px;
+  color: aliceblue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.p1 {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.s-card {
+  margin: 20px;
+}
+
+.s-card-image {
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+}
+
+.s-card-info {
+  margin-top: 10px;
+  min-height: 100px;
+}
+
+.s-card-title {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0px;
+}
+
+.s-card-sub-title {
+  font-size: 16px;
+  margin: 0px;
+}
+
+.navbar-brand {
+    position: absolute;
+    height: 350px; 
+    margin-left: -15px;
+    margin-top: 50px;
+    padding:0;
+}
+
+.ml-auto {
+  font-family: 'Comfortaa';
+  font-size: 25px;
+}
+
+.footer {
+  font-family: 'Comfortaa';
+  font-size: 20px;
+}
+
+.description {
+  font-family: 'Montserrat';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main-chart {
+  font-family: 'Montserrat';
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.grid-container {
+  padding: 50px;
+  text-align: center;
+}
